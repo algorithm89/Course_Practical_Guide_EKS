@@ -14,12 +14,12 @@
         "DomainName": {
             "Description": "The domain name",
             "Type": "String",
-            "Default": "mariomerco.com"
+            "Default": "bubliki.org"
         },
         "DeployHostedZone": {
             "Description": "Define whether deploy the hosted zone or not",
             "Type": "String",
-            "Default": "no",
+            "Default": "yes",
             "AllowedValues": [
                 "yes",
                 "no"
